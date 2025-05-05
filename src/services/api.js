@@ -1,16 +1,16 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'personal-task-manager-production.up.railway.app', // your backend URL
+  baseURL: 'https://personal-task-manager-production.up.railway.app/api', // your backend URL
 });
 
 // If you want to add token automatically
-API.interceptors.request.use((req) => {
+API.interceptors.request.use((config) => {
   const token = localStorage.getItem('token');
   if (token) {
-    req.headers.Authorization = `Bearer ${token}`;
+    config.headers.Authorization = `Bearer ${token}`;
   }
-  return req;
+  return config;
 });
 
 export default API;
