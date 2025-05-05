@@ -7,9 +7,12 @@ My official version of this was created at: https://personal-task-manager-fronte
 
 ---
 
+![pR64Cx](https://github.com/user-attachments/assets/b142a69e-04d8-48a1-b7e3-ad9ea3482e4a)
+
 ## 🚀 Features
 
-- ⚡ User Registration and Login (with JWT)
+- ⚡ User Registration and Login (with JWT)![Uploading pR64Cx.jpg…]()
+
 - 📝 Create, View, and Delete Tasks
 - 🧠 View Profile (number of tasks, delete account option)
 - 🎨 Modern, responsive design with Tailwind CSS
