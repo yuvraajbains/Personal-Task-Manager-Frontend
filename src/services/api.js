@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://personal-task-manager-production.up.railway.app/api', 
+  baseURL: import.meta.env.RAILWAY_API_URL, 
 });
 
 API.interceptors.request.use((config) => {
