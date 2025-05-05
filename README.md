@@ -7,7 +7,7 @@ My official version of this was created at: https://personal-task-manager-fronte
 
 ---
 
-![pR64Cx](https://github.com/user-attachments/assets/b142a69e-04d8-48a1-b7e3-ad9ea3482e4a)
+<img src="https://github.com/user-attachments/assets/b142a69e-04d8-48a1-b7e3-ad9ea3482e4a" alt="QR Code" width="200"/>
 
 ## 🚀 Features
 
