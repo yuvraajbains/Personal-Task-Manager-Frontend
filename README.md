@@ -78,13 +78,6 @@ Frontend will be running at:
 
 ---
 
-## 📸 Live Preview (Demo Link)
-
-[🔗 Live Demo Link Here](https://your-vercel-project-link.vercel.app/)  
-*(Replace with your real Vercel frontend URL)*
-
----
-
 ## 📌 Best Practices Used
 
 - Protected API requests using Axios interceptors
@@ -92,12 +85,6 @@ Frontend will be running at:
 - Environment variables securely managed
 - Mobile-first responsive design
 - Reusable animated components
-
----
-
-## 🤝 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
