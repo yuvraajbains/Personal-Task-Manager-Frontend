@@ -3,6 +3,8 @@
 This is the frontend client for the **Personal Task Manager** web application.  
 It is built with **React.js**, **Tailwind CSS**, and **Vite**, and communicates with a backend server for user authentication and task management.
 
+My official version of this was created at: https://personal-task-manager-frontend-pink.vercel.app/ 
+
 ---
 
 ## 🚀 Features
